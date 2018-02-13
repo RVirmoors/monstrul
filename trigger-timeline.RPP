@@ -1,0 +1,2308 @@
+<REAPER_PROJECT 0.1 "5.70/x64" 1518000008
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3198 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 29.38185416666532
+  ZOOM 50.47430263272301 200 0
+  VZOOMEX 6
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\_monstrul\render\trigger-timeline0205.wav"
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 48000 1 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 37.68170787416329 61.3505306326221
+  SELECTION2 37.68170787416329 61.3505306326221
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {BA7405CE-5250-47E6-99CC-D0338F54B95A}
+    NAME corp
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BA7405CE-5250-47E6-99CC-D0338F54B95A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 0 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 17.11712134 1 0
+      PT 17.77091938 1 0
+      PT 19.2394692 1 0
+      PT 19.43758981 1 0
+      PT 19.53665012 1 0
+      PT 19.61344112 1 0
+      PT 20.99444112 1 0
+      PT 21.2123738 1 0
+      PT 21.75314379 1 0
+      PT 23.01642985 1 0
+      PT 23.05295248 1 0
+      PT 23.42938165 1 0
+      PT 23.58787815 1 0
+      PT 23.62406784 1 0
+      PT 23.83341027 1 0
+      PT 23.86993291 1 0
+      PT 24.949821 1 0
+      PT 25.02906924 1 0
+      PT 25.10831749 1 0
+      PT 25.38568636 1 0
+      PT 25.69574408 1 0
+      PT 26.78984122 1 0
+      PT 26.87609554 1 0
+      PT 26.99496791 1 0
+      PT 27.28968399 1 0
+      PT 28.30563134 1 0
+      PT 28.33404945 1 0
+      PT 28.36957208 1 0
+      PT 37.06037728 1 0
+      PT 38.18547694 1 0
+      PT 38.24923497 1 0
+      PT 38.35146367 1 0
+      PT 53.47776963 1 0
+      PT 55.57655647 1 0
+      PT 70.58031261 1 0
+      PT 75.69941678 1 0
+      PT 84.82415978 1 0
+      PT 84.92510839 1 0
+      PT 85.3450451 1 0
+      PT 85.45078478 1 0
+      PT 85.76298181 1 0
+      PT 85.83364584 1 0
+      PT 85.87907271 1 0
+      PT 85.93964187 1 0
+      PT 86.02040076 1 0
+      PT 86.04513889 1 0
+      PT 86.30910428 1 0
+      PT 101.99124543 1 0
+      PT 102.6252314 0.76 0
+      PT 103.19978119 0.41213539 0
+      PT 106.2508387 0.4864282 0 0 1
+      PT 106.52820757 0.80878924 0
+      PT 107.04332117 1 0
+    >
+    <ITEM
+      POSITION 17.77141938001667
+      SNAPOFFS 0
+      LENGTH 1.46754981717765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2AA90305-5B62-4FC0-8F0F-79E45137338E}
+      IID 466
+      NAME 352383__lonemonk__old-door-knob-and-open-with-squeek.wav
+      VOLPAN 0.214286 0 1 -1
+      SOFFS 0.75285834608766
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C211D04-7D1E-42A2-9EE2-17BA8EE7CF36}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\352383__lonemonk__old-door-knob-and-open-with-squeek.wav"
+      >
+    >
+    <ITEM
+      POSITION 19.61394112175757
+      SNAPOFFS 0
+      LENGTH 1.38
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.171176 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {54FF634B-6BF9-41E5-B146-23A73606CA6E}
+      IID 216
+      NAME step2.wav
+      VOLPAN 0.75 0 2.735868 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80307062-5D20-4B15-93B5-90590B5BE7D6}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\step2.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.75364378958566
+      SNAPOFFS 0
+      LENGTH 1.29880868871074
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.308206 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D1D63438-5E98-428B-8F0D-840B25491700}
+      IID 217
+      NAME step3.wav
+      VOLPAN 0.75 0 3.562841 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3704482C-F1D2-4096-8080-E6D592992A62}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\step3.wav"
+      >
+    >
+    <ITEM
+      POSITION 23.83391027219631
+      SNAPOFFS 0
+      LENGTH 1.11541072506674
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.283304 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DB8FC6B0-CCD1-4A22-AE05-A3BC9A6CF524}
+      IID 220
+      NAME step5.wav
+      VOLPAN 0.75 0 2.572038 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C7A94B5E-6BA7-4097-ABFA-B970E65F445C}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\step5.wav"
+      >
+    >
+    <ITEM
+      POSITION 25.69624407567632
+      SNAPOFFS 0
+      LENGTH 1.17935146726801
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.228373 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6CCF3B7E-2BE2-4576-8FFD-423F5D151E77}
+      IID 221
+      NAME step6.wav
+      VOLPAN 0.75 0 2.738491 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD883075-B24C-4E0F-B7EC-EAA5FE53039B}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\step6.wav"
+      >
+    >
+    <ITEM
+      POSITION 27.20392967173902
+      SNAPOFFS 0
+      LENGTH 1.10120167124422
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.251252 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4A76CFF7-1818-415F-9610-EBC6ED6E80A9}
+      IID 219
+      NAME step4.wav
+      VOLPAN 0.75 0 3.151778 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CBE00E73-6DDE-47E3-AEDB-A2222BE10C87}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\step4.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.44003170400351
+      SNAPOFFS 0
+      LENGTH 0.56302130317279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.140755 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {14ECDC3D-3F3D-4BA0-A9F3-B15B8A4DDC94}
+      IID 9
+      NAME 385013__theguitarmanjp__johnjpowers-heavy-dinosaur-footsteps-jurassic-park-water.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {17B14B28-BC28-4084-88DB-43A78A2F94C4}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\385013__theguitarmanjp__johnjpowers-heavy-dinosaur-footsteps-jurassic-park-water.wav"
+      >
+    >
+    <ITEM
+      POSITION 33.70428088866911
+      SNAPOFFS 0
+      LENGTH 0.77058963307346
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.017834 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {96E63733-E20B-4D48-A1A0-E212F8BDE759}
+      IID 176
+      NAME "06 Fireworks, Thunderflash--Bang.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0B8DCBCF-A5E2-4C60-ADB8-0783A405E923}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\06 Fireworks, Thunderflash--Bang.wav"
+      >
+    >
+    <ITEM
+      POSITION 34.45703693515875
+      SNAPOFFS 0
+      LENGTH 0.51462635570442
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.017834 1 1 0
+      FADEOUT 1.1 0.01 0.175788 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {CBC724F8-DE4E-4AC3-BBBE-436267BF419D}
+      IID 462
+      NAME shake.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.40507718097525
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9B8996D-8B25-420F-8CB5-7C5C2210ABD7}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\shake.wav"
+      >
+    >
+    <ITEM
+      POSITION 34.79587508025126
+      SNAPOFFS 0
+      LENGTH 2.32876022519221
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.175788 1 1 0
+      FADEOUT 1.1 0.01 0.063758 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {7676EDB8-2AD0-438E-BDCE-A1C6E5BA30CF}
+      IID 464
+      NAME "06 Fireworks, Thunderflash--Bang.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.09159419158215
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65F4135E-6711-4E05-8A89-43FD986C7E3B}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\06 Fireworks, Thunderflash--Bang.wav"
+      >
+    >
+    <ITEM
+      POSITION 37.06087728134814
+      SNAPOFFS 0
+      LENGTH 1.12409966237279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.063758 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AA9B5EE0-E2A1-426F-A10B-8E6D151F9D3F}
+      IID 384
+      NAME steps-zilla.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F391F743-C06A-4ABD-8E8D-6FC8A72FD103}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\steps-zilla.wav"
+      >
+    >
+    <ITEM
+      POSITION 45.28844420144975
+      SNAPOFFS 0
+      LENGTH 4.30711296927189
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2A05863F-1B98-47EB-860A-87650EDDC151}
+      IID 43
+      NAME clocktick.wav
+      VOLPAN 0.767857 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C2AEF84-E45A-4601-BEE9-BADD7BD8F5AB}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\clocktick.wav"
+      >
+    >
+    <ITEM
+      POSITION 59.08448833057125
+      SNAPOFFS 0
+      LENGTH 0.402529525749
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.012738 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {6BCF693F-A7AA-40BB-B0EB-70656F827351}
+      IID 112
+      NAME "29 Can Opener, Tin Opened, Contents.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.82377095256051
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {484D3B1B-4826-4538-8C36-9BABECF39899}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\29 Can Opener, Tin Opened, Contents.wav"
+      >
+    >
+    <ITEM
+      POSITION 59.47427958018892
+      SNAPOFFS 0
+      LENGTH 0.17578821061191
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.012738 1 1 0
+      FADEOUT 1.1 0.01 0.014704 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {B32F96AC-EFB1-4311-9142-3D4E1B29126C}
+      IID 117
+      NAME "29 Can Opener, Tin Opened, Contents.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 32.79536011335833
+      PLAYRATE 0.99999999999988 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15C80074-2E87-4B3C-B96F-CD5D064C5BF0}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\29 Can Opener, Tin Opened, Contents.wav"
+      >
+    >
+    <ITEM
+      POSITION 59.63536366055835
+      SNAPOFFS 0
+      LENGTH 0.1613682186214
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.014704 1 1 0
+      FADEOUT 1.1 0.01 0.014344 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {C89AE5A9-582C-4187-82FA-BD481C85052E}
+      IID 107
+      NAME "29 Can Opener, Tin Opened, Contents.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.48096016218653
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44ADE978-AD53-478D-8403-B1250997AC01}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\29 Can Opener, Tin Opened, Contents.wav"
+      >
+    >
+    <ITEM
+      POSITION 59.78238803752452
+      SNAPOFFS 0
+      LENGTH 0.18752291048241
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.014344 1 1 0
+      FADEOUT 1.1 0.01 0.090702 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {448B189A-D5F1-4407-A395-E147A3D9EFC7}
+      IID 110
+      NAME "29 Can Opener, Tin Opened, Contents.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.87982342684949
+      PLAYRATE 0.99999999999986 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C507F88E-3E1E-4FAB-95C3-3D0CFAA8C571}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\29 Can Opener, Tin Opened, Contents.wav"
+      >
+    >
+    <ITEM
+      POSITION 59.87920896869736
+      SNAPOFFS 0
+      LENGTH 0.21910435860502
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.090702 1 1 0
+      FADEOUT 1.1 0.01 0.043392 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {AD44470D-07C1-4257-9B7E-C559A29012A4}
+      IID 113
+      NAME "29 Can Opener, Tin Opened, Contents.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.09824197872677
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E163A08-E6C4-4F44-8A1D-539BB5E0D205}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\29 Can Opener, Tin Opened, Contents.wav"
+      >
+    >
+    <ITEM
+      POSITION 60.05492102897401
+      SNAPOFFS 0
+      LENGTH 0.21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.043392 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {329429D0-D4DC-431C-8792-80F0F0A1A73B}
+      IID 114
+      NAME "29 Can Opener, Tin Opened, Contents.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 21.13734633733173
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3A86C34-1E4E-4D92-BF0E-9F9BF40C5680}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\29 Can Opener, Tin Opened, Contents.wav"
+      >
+    >
+    <ITEM
+      POSITION 62.31312081249646
+      SNAPOFFS 0
+      LENGTH 0.38932132850526
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.126186 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FF8E4309-F688-4199-82B8-155E9E3FC66C}
+      IID 186
+      NAME sheets.wav
+      VOLPAN 0.142857 0 1 -1
+      SOFFS 0.15647033816143
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5347D8FA-7B95-4D8F-9B9C-C37ED5263E0C}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\sheets.wav"
+      >
+    >
+    <ITEM
+      POSITION 63.08035617399808
+      SNAPOFFS 0
+      LENGTH 1.10974059772489
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.056836 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {7AD33FB5-6D0C-4005-9F3E-741769757AA6}
+      IID 67
+      NAME 208878__yuval__footsteps-soft-slippers.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 39.24188114552945
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B32FC722-4E68-4502-89BF-5A5B08BE9FB5}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\208878__yuval__footsteps-soft-slippers.wav"
+      >
+    >
+    <ITEM
+      POSITION 64.13326055643294
+      SNAPOFFS 0
+      LENGTH 0.75106574238019
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.056836 1 1 0
+      FADEOUT 1.1 0.01 0.054822 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {1A70CD0C-0193-4F74-BA02-B69A4CC208C6}
+      IID 184
+      NAME 208878__yuval__footsteps-soft-slippers.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.37852868331718
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {552F41B5-C154-410D-A33A-EAE78FFFC0ED}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\208878__yuval__footsteps-soft-slippers.wav"
+      >
+    >
+    <ITEM
+      POSITION 64.82950419373576
+      SNAPOFFS 0
+      LENGTH 0.82739601433113
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.054822 1 1 0
+      FADEOUT 1.1 0.01 0.330079 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {2C20C15E-D093-4933-AD1C-9A0376DEEF1B}
+      IID 185
+      NAME 208878__yuval__footsteps-soft-slippers.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.96619030673855
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {983E1814-0E19-434A-A21D-19643F15693E}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\208878__yuval__footsteps-soft-slippers.wav"
+      >
+    >
+    <ITEM
+      POSITION 65.32682107752348
+      SNAPOFFS 0
+      LENGTH 0.83640176510801
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.330079 1 1 0
+      FADEOUT 1.1 0.01 0.09 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {5A12B44F-36A3-4CA3-9131-38450087BB34}
+      IID 48
+      NAME 352383__lonemonk__old-door-knob-and-open-with-squeek.wav
+      VOLPAN 0.571429 0 1 -1
+      SOFFS 0.283598234892
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07823256-BF19-4B5B-B960-1A961DE4AE9F}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\352383__lonemonk__old-door-knob-and-open-with-squeek.wav"
+      >
+    >
+    <ITEM
+      POSITION 66.07322284263148
+      SNAPOFFS 0
+      LENGTH 0.99755102037122
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.09 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9D2DE32E-5AEB-4811-A41E-2FC4F16BBA3E}
+      IID 49
+      NAME 352379__lonemonk__old-door-closing-with-squeek-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.040000000037
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C4F1729-67F8-4B06-81C8-8EEAD434EB96}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\352379__lonemonk__old-door-closing-with-squeek-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 67.42393673016963
+      SNAPOFFS 0
+      LENGTH 1.49172217545154
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {657196AA-727A-419A-A317-BE05541B2278}
+      IID 168
+      NAME 316691__ambiosis__footsteps-concrete-slow-male-heavy.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.38122423652921
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4ABC1095-688A-42C4-B916-3AB50ADA868F}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\316691__ambiosis__footsteps-concrete-slow-male-heavy.wav"
+      >
+    >
+    <ITEM
+      POSITION 78.97461727404065
+      SNAPOFFS 0
+      LENGTH 1.05526574981978
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8F7CBB2B-09AC-4F7F-8AB3-96715EAD5778}
+      IID 188
+      NAME 352383__lonemonk__old-door-knob-and-open-with-squeek.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.16514241344551
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B67196D-0074-474D-B5B5-30CD85546C66}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\352383__lonemonk__old-door-knob-and-open-with-squeek.wav"
+      >
+    >
+    <ITEM
+      POSITION 81.52538565314535
+      SNAPOFFS 0
+      LENGTH 0.27222465819322
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3F4360CC-E061-4E7A-BE68-213E117B313E}
+      IID 232
+      NAME 185354__qubodup__iwans-neighbour-pica-pica.flac
+      VOLPAN 0.875 0 1 -1
+      SOFFS 3.62491713303506
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB890F27-A68F-46FF-AB99-8EC60934244D}
+      <SOURCE FLAC
+        FILE "samples\triggers-target\185354__qubodup__iwans-neighbour-pica-pica.flac"
+      >
+    >
+    <ITEM
+      POSITION 83.04224690818656
+      SNAPOFFS 0
+      LENGTH 0.69214687982981
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.380112 0 1 0 0
+      FADEOUT 1.1 0.01 0.021572 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {F0C43107-6DE9-4CDF-BAA7-F444E0ED5EB2}
+      IID 230
+      NAME 185354__qubodup__iwans-neighbour-pica-pica.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2.84281290960375
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AAEED691-9C48-42F9-B2CE-BBAC840D0B19}
+      <SOURCE FLAC
+        FILE "samples\triggers-target\185354__qubodup__iwans-neighbour-pica-pica.flac"
+      >
+    >
+    <ITEM
+      POSITION 83.71282150556885
+      SNAPOFFS 0
+      LENGTH 0.36218200179469
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.021572 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E10A91DE-2DAB-4993-9630-F4EA981970C8}
+      IID 232
+      NAME 185354__qubodup__iwans-neighbour-pica-pica.flac
+      VOLPAN 0.196429 0 1 -1
+      SOFFS 3.53495978943356
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {093509F3-9E62-4ABB-ABE3-40B1A11C5A14}
+      <SOURCE FLAC
+        FILE "samples\triggers-target\185354__qubodup__iwans-neighbour-pica-pica.flac"
+      >
+    >
+    <ITEM
+      POSITION 85.61710633802232
+      SNAPOFFS 0
+      LENGTH 0.24732408290033
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.075711 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {9DE6F189-DED2-4855-A69C-8A091BEB3A16}
+      IID 236
+      NAME 185354__qubodup__iwans-neighbour-pica-pica.flac
+      VOLPAN 0.571429 0 1 -1
+      SOFFS 14.49377128585562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {161E100F-8310-4ED3-A7A5-8F057E7DC9DB}
+      <SOURCE FLAC
+        FILE "samples\triggers-target\185354__qubodup__iwans-neighbour-pica-pica.flac"
+      >
+    >
+    <ITEM
+      POSITION 85.78871896697358
+      SNAPOFFS 0
+      LENGTH 0.38988859507661
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.075711 1 1 0
+      FADEOUT 1.1 0.01 0.206031 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {B1BEB463-261B-47D5-A8A1-A785A576A388}
+      IID 227
+      NAME 240469__godowan__wings2.wav
+      VOLPAN 0.25 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.99999999999988 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12BDA209-8D41-436C-BC0D-7D3E2742A893}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\240469__godowan__wings2.wav"
+      >
+    >
+    <ITEM
+      POSITION 85.97257628162386
+      SNAPOFFS 0
+      LENGTH 1.61530026370123
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.206031 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {88FCCA83-8B09-4D49-90CF-13A7A3FBE004}
+      IID 52
+      NAME "39 Bath, Somone Having A Bath.wav"
+      VOLPAN 0.339286 0 1 -1
+      SOFFS 210.29945550534489
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1EB0F178-9392-47C3-89E2-2B5E500816AF}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\39 Bath, Somone Having A Bath.wav"
+      >
+    >
+    <ITEM
+      POSITION 87.58787654532509
+      SNAPOFFS 0
+      LENGTH 1.40509631491288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.12668 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {02472E6A-FF4C-4BA9-97CE-C62291EEBB09}
+      IID 229
+      NAME "39 Bath, Somone Having A Bath.wav"
+      VOLPAN 0.142857 0 1 -1
+      SOFFS 1.39475576904604
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0FEF3F2-1DD7-4CB2-A692-4A1DBADF26D4}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\39 Bath, Somone Having A Bath.wav"
+      >
+    >
+    <ITEM
+      POSITION 88.8662930670241
+      SNAPOFFS 0
+      LENGTH 4.32692977560721
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.12668 1 1 0
+      FADEOUT 1.1 0.01 0.05 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {2C6B0E05-05EA-4282-8B1E-44F3AF117F77}
+      IID 53
+      NAME "39 Bath, Somone Having A Bath.wav"
+      VOLPAN 0.535714 0 1 -1
+      SOFFS 5.02378623149147
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E8C0946E-D2CC-4A2E-A6FD-911E7D308EAC}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\39 Bath, Somone Having A Bath.wav"
+      >
+    >
+    <ITEM
+      POSITION 93.14322284263132
+      SNAPOFFS 0
+      LENGTH 0.51
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.05 1 1 0
+      FADEOUT 1.1 0.01 0.08 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {12C63F16-6B9A-4D6E-A451-8B590ACB523B}
+      IID 55
+      NAME "39 Bath, Somone Having A Bath.wav"
+      VOLPAN 0.535714 0 1 -1
+      SOFFS 12.83071600709866
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B4B4D6DF-68C2-4BF9-A5BB-9A569EEB2BCC}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\39 Bath, Somone Having A Bath.wav"
+      >
+    >
+    <ITEM
+      POSITION 93.57322284263131
+      SNAPOFFS 0
+      LENGTH 6.17345690820704
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.08 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {87C5CB38-826C-4D9A-B02E-53C7A95F2B05}
+      IID 56
+      NAME "39 Bath, Somone Having A Bath.wav"
+      VOLPAN 0.535714 0 1 -1
+      SOFFS 19.43071600709862
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39FB3074-5FB3-404A-81FE-544B7083E4FC}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\39 Bath, Somone Having A Bath.wav"
+      >
+    >
+    <ITEM
+      POSITION 99.74667975083835
+      SNAPOFFS 0
+      LENGTH 5.00211672401444
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 2.649221 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {524776B7-B0B0-4789-9D2F-7F7942E81518}
+      IID 57
+      NAME "39 Bath, Somone Having A Bath.wav"
+      VOLPAN 0.214286 0 1 -1
+      SOFFS 25.60417291530567
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D6337E9-9B5F-40E7-A0E5-AF9E29DF67C6}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\39 Bath, Somone Having A Bath.wav"
+      >
+    >
+    <ITEM
+      POSITION 186.5959638579107
+      SNAPOFFS 0
+      LENGTH 2.65195053413609
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C06BD2AF-E098-427F-A774-F5D14158A07E}
+      IID 58
+      NAME "39 Bath, Somone Having A Bath.wav"
+      VOLPAN 0.714286 0 1 -1
+      SOFFS 163.20815355176785
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EBED9701-BE5F-4CCC-A3EA-3B0B88E657FD}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\39 Bath, Somone Having A Bath.wav"
+      >
+    >
+    <ITEM
+      POSITION 189.24791439204679
+      SNAPOFFS 0
+      LENGTH 4.64091343473817
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E6E661BD-97F8-402F-B368-7AE64D4FC65B}
+      IID 61
+      NAME "39 Bath, Somone Having A Bath.wav"
+      VOLPAN 0.178571 0 1 -1
+      SOFFS 165.86010408590394
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {901CB2E1-1C68-41A5-A1CF-061510826B97}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\39 Bath, Somone Having A Bath.wav"
+      >
+    >
+    <ITEM
+      POSITION 194.7499878198231
+      SNAPOFFS 0
+      LENGTH 0.98042471375294
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.028852 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {D9CDD425-4E77-4AEC-8CD7-D3E486FFE08E}
+      IID 67
+      NAME 208878__yuval__footsteps-soft-slippers.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DAD6CA75-3CDE-406B-A273-1290B7626D74}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\208878__yuval__footsteps-soft-slippers.wav"
+      >
+    >
+    <ITEM
+      POSITION 195.70156037998836
+      SNAPOFFS 0
+      LENGTH 0.5602647592232
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.028852 1 1 0
+      FADEOUT 1.1 0.01 0.062533 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {1AECF388-E1DD-446D-AF7E-68BFED7761AA}
+      IID 69
+      NAME 208878__yuval__footsteps-soft-slippers.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.9438180818361
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8507E18F-236E-4F68-94DB-BFC2052D542B}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\208878__yuval__footsteps-soft-slippers.wav"
+      >
+    >
+    <ITEM
+      POSITION 196.19929260785818
+      SNAPOFFS 0
+      LENGTH 0.78936248926456
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.062533 1 1 0
+      FADEOUT 1.1 0.01 0.050473 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {E1CFFA85-1246-423D-BB38-356FD95F7B04}
+      IID 68
+      NAME 208878__yuval__footsteps-soft-slippers.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.57603251239815
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC0F9CFD-346E-4FBC-B999-85A87D453926}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\208878__yuval__footsteps-soft-slippers.wav"
+      >
+    >
+    <ITEM
+      POSITION 196.93818210848909
+      SNAPOFFS 0
+      LENGTH 0.58257120672275
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.050473 1 1 0
+      FADEOUT 1.1 0.01 0.085254 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {C0238AF4-C3C8-4008-80C9-6579FCFAC026}
+      IID 72
+      NAME 208878__yuval__footsteps-soft-slippers.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.24385804205596
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {60A874CC-F774-43B0-B72B-E6F888AF10CC}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\208878__yuval__footsteps-soft-slippers.wav"
+      >
+    >
+    <ITEM
+      POSITION 197.43549899227679
+      SNAPOFFS 0
+      LENGTH 0.51721528513093
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.085254 1 1 0
+      FADEOUT 1 0.166565 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C11D5F62-629E-4FCB-8227-00ED2DCBA9B6}
+      IID 71
+      NAME 208878__yuval__footsteps-soft-slippers.wav
+      VOLPAN 0.660714 0 1 -1
+      SOFFS 3.95431073318125
+      PLAYRATE 0.99999999999985 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F314ECD-BEDC-459B-828A-6D6D8BC89830}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\208878__yuval__footsteps-soft-slippers.wav"
+      >
+    >
+    <ITEM
+      POSITION 206.72984417179069
+      SNAPOFFS 0
+      LENGTH 8.84496851667365
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 5 6.748541 0 5 0 0
+      FADEOUT 1.1 0.01 1.371378 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {E8D1BADA-77F6-40C2-9D7F-2A38D6C833FB}
+      IID 172
+      NAME "36 Wash-Hand Basin, Filled, Hands Wa.wav"
+      VOLPAN 0.25 0 1 -1
+      SOFFS 5.7138992844946
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C22C2C3E-DBCB-4115-AE78-210055904757}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\36 Wash-Hand Basin, Filled, Hands Wa.wav"
+      >
+    >
+    <ITEM
+      POSITION 214.20343476046432
+      SNAPOFFS 0
+      LENGTH 16.58001239547121
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 1.371378 1 1 0
+      FADEOUT 1 7.764993 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2FB4FBD6-16FA-470F-8CA8-4724FC9C9FF4}
+      IID 104
+      NAME "11-06 Rivers And Streams, Stream Flo.wav"
+      VOLPAN 0.625 0 1 -1
+      SOFFS 222.3164770712614
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F52BE95-C56C-4FAF-9EAD-91C8464FAA40}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\11-06 Rivers And Streams, Stream Flo.wav"
+      >
+    >
+  >
+  <TRACK {A6455C81-7C3B-4C14-B192-C5B5CE4421FE}
+    NAME voce
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A6455C81-7C3B-4C14-B192-C5B5CE4421FE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 11.1895 1 0
+      PT 11.2395 1 0
+      PT 14.73484464 1 0
+      PT 17.57279876 1 0
+      PT 19.79420693 1 0
+      PT 22.74374688 1 0
+      PT 22.88243131 1 0
+      PT 23.08055193 0.26 0
+      PT 24.92287653 0.27737803 0
+      PT 25.43818727 0.28223878 0
+      PT 25.43868727 0.27738274 0
+      PT 27.83594674 0.29999528 0
+      PT 27.83644674 0.36686228 0
+      PT 32.72952599 0.65 0
+      PT 32.93545369 1 0
+      PT 33.06213349 1 0
+      PT 33.1541994 1 0
+      PT 33.24231655 1 0
+      PT 33.40081304 1 0
+      PT 34.00745163 1 0
+      PT 36.25390083 1 0
+      PT 37.61125499 1 0
+      PT 38.69824761 1 0
+      PT 53.47776963 1 0
+      PT 55.57655647 1 0
+      PT 67.0038928 1 0
+      PT 67.59825465 1 0
+      PT 67.99051867 1 0
+      PT 69.96680891 1 0
+      PT 70.38510689 1 0
+      PT 75.50421105 1 0
+      PT 75.67153025 1 0
+      PT 83.04174691 1 0
+      PT 83.7127215 1 0
+      PT 83.7128215 1 0
+      PT 84.0755035 1 0
+      PT 84.08647944 1 0
+      PT 85.61660634 1 0
+      PT 85.76298181 1 0
+      PT 85.78861896 1 0
+      PT 85.78871896 1 0
+      PT 85.83364584 1 0
+      PT 85.87907271 1 0
+      PT 85.93964187 1 0
+      PT 86.02040076 1 0
+      PT 86.04513889 1 0
+      PT 86.17910756 1 0
+      PT 86.19008349 1 0
+    >
+    <ITEM
+      POSITION 11.23999999999958
+      SNAPOFFS 0
+      LENGTH 3.4943446405042
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.234883 0 1 0 0
+      FADEOUT 1.1 0.01 0.164345 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {F8A61DC2-6CFE-461A-A0D5-FFE0DC7708BD}
+      IID 231
+      NAME 185354__qubodup__iwans-neighbour-pica-pica.flac
+      VOLPAN 0.821429 0 1 -1
+      SOFFS 7.739998910105
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B534BE4-1409-4D3F-92FE-CB14E06B19C8}
+      <SOURCE FLAC
+        FILE "samples\triggers-target\185354__qubodup__iwans-neighbour-pica-pica.flac"
+      >
+    >
+    <ITEM
+      POSITION 14.56999999999946
+      SNAPOFFS 0
+      LENGTH 0.58272894912596
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.164345 1 1 0
+      FADEOUT 1.1 0.01 0.084453 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {190934FB-83F7-478F-A001-7E12A8701BCE}
+      IID 465
+      NAME 185354__qubodup__iwans-neighbour-pica-pica.flac
+      VOLPAN 0.178571 0 1 -1
+      SOFFS 11.0843435506092
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {08EE29F8-03F3-460F-B2C6-0CD564E1F5E8}
+      <SOURCE FLAC
+        FILE "samples\triggers-target\185354__qubodup__iwans-neighbour-pica-pica.flac"
+      >
+    >
+    <ITEM
+      POSITION 15.06827575364951
+      SNAPOFFS 0
+      LENGTH 2.16763201721522
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.084453 1 1 0
+      FADEOUT 1 1.308259 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FF23ECE1-1D4C-443D-A80A-09E3E773F4E2}
+      IID 235
+      NAME 185354__qubodup__iwans-neighbour-pica-pica.flac
+      VOLPAN 0.142857 0 1 -1
+      SOFFS 12.01896081421815
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {525448D2-FE94-4CD7-9D69-1FC3A0050567}
+      <SOURCE FLAC
+        FILE "samples\triggers-target\185354__qubodup__iwans-neighbour-pica-pica.flac"
+      >
+    >
+    <ITEM
+      POSITION 23.08105192610868
+      SNAPOFFS 0
+      LENGTH 1.80289761826257
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.792898 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4A30D684-2145-48BC-A49C-0DE6D6A8A973}
+      IID 318
+      NAME 210000__jason130178__man-breathing.wav
+      VOLPAN 0.089286 0 19.404405 -1
+      SOFFS 3.60333634029812
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {070803DD-89D5-4FD6-9AE4-2D18A17C1F60}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\210000__jason130178__man-breathing.wav"
+      >
+      SM 4.259593274 7.862929614 + 6.478544189 9.951354005 + 7.548395523 10.74430264 + 9.985278117 12.300831444 + 9.985279117 13.053689791 + 10.146200168 13.749536509
+    >
+    <ITEM
+      POSITION 25.43868727306738
+      SNAPOFFS 0
+      LENGTH 2.39725947043704
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D5C682D7-7E49-4442-B0A1-9543C69F50CC}
+      IID 320
+      NAME 210000__jason130178__man-breathing.wav
+      VOLPAN 0.107143 0 19.404405 -1
+      SOFFS 5.40623395856068
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D593CF8-3BDC-4F6F-B15C-3EE6C054F99B}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\210000__jason130178__man-breathing.wav"
+      >
+      SM 2.456695656 7.862929614 + 4.67564657 9.951354005 + 5.745497904 10.74430264 + 8.182380498 12.300831444 + 8.182381498 13.053689791 + 8.34330255 13.749536509
+    >
+    <ITEM
+      POSITION 28.30513134298324
+      SNAPOFFS 0
+      LENGTH 0.92917358759656
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.376429 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {76155558-5A0D-4B79-B30B-51F739C78680}
+      IID 322
+      NAME 210000__jason130178__man-breathing.wav
+      VOLPAN 0.142857 0 19.404405 -1
+      SOFFS 8.95637708102214
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0660036A-BA84-4BAB-B5D9-56C55E3CCF60}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\210000__jason130178__man-breathing.wav"
+      >
+      SM -1.093447467 7.862929614 0.121239834 + 0.134900361 9.178524151 -0.085904523 + 0.833738043 9.951354005 + 1.903589377 10.74430264 + 4.340471971 12.300831444 + 4.340472971 13.053689791 + 4.501394022 13.749536509
+    >
+    <ITEM
+      POSITION 29.55959611481043
+      SNAPOFFS 0
+      LENGTH 3.57222043476306
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3010DEEA-DAFE-4903-A594-8D2F73187360}
+      IID 323
+      NAME 210000__jason130178__man-breathing.wav
+      VOLPAN 0.089286 0 19.404405 -1
+      SOFFS 9.8855506686187
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D1131F5-A3A4-4F30-B9A7-7E6E3F53A369}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\210000__jason130178__man-breathing.wav"
+      >
+      SM 0.515113605 10.400664274 + 3.572219435 11.985629213 + 3.572220435 13.457771103
+    >
+    <ITEM
+      POSITION 33.88999999999884
+      SNAPOFFS 0
+      LENGTH 1.79540499808714
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F7D74BD2-3143-4FA5-9418-20B9C936ED91}
+      IID 175
+      NAME 352383__lonemonk__old-door-knob-and-open-with-squeek.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.42500316517816
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31720CC2-D9CB-4DB3-9D3C-1B1B11DB436B}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\352383__lonemonk__old-door-knob-and-open-with-squeek.wav"
+      >
+    >
+    <ITEM
+      POSITION 38.35096367025649
+      SNAPOFFS 0
+      LENGTH 1.53288605492067
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.157007 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {817D8615-CE66-447A-840F-C9E45DC2CF78}
+      IID 21
+      NAME slide-whistle.wav
+      VOLPAN 0.446429 0 1 -1
+      SOFFS 2.79957121064832
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {641901C9-F51F-47EF-811D-7369B6D279B5}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\slide-whistle.wav"
+      >
+    >
+    <ITEM
+      POSITION 43.98482223611933
+      SNAPOFFS 0
+      LENGTH 0.43248593782726
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.056836 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4C12C8E4-C5CE-4C7C-8E88-4E09CA5444CA}
+      IID 22
+      NAME slide-whistle.wav
+      VOLPAN 0.271046 0 1 -1
+      SOFFS 5.38081818515089
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {810D9D12-E559-4CDA-8437-807ECC5E26E7}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\slide-whistle.wav"
+      >
+    >
+    <ITEM
+      POSITION 44.76486604113273
+      SNAPOFFS 0
+      LENGTH 0.99257786709563
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DC1BF227-9D27-4666-B329-CACD8F59A5DB}
+      IID 23
+      NAME slide-whistle.wav
+      VOLPAN 0.446429 0 1 -1
+      SOFFS 1.80699334355273
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5AC01B8A-2D71-4D88-845C-21D1D8F3DEBC}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\slide-whistle.wav"
+      >
+    >
+    <ITEM
+      POSITION 46.59218361254923
+      SNAPOFFS 0
+      LENGTH 0.21018400091248
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F2B4575F-70D2-4BCA-9A12-3F9E74FBFC25}
+      IID 100
+      NAME slide-whistle.wav
+      VOLPAN 0.271046 0 1 -1
+      SOFFS 5.51345620691557
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1A9FD9E-6C1A-4B6F-AFF1-9DD9C0C7ED4F}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\slide-whistle.wav"
+      >
+    >
+    <ITEM
+      POSITION 46.80531941988682
+      SNAPOFFS 0
+      LENGTH 0.46334941934782
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C7DC6E2D-6CAF-4403-AC25-78AE2F489E46}
+      IID 101
+      NAME slide-whistle.wav
+      VOLPAN 0.271046 0 1 -1
+      SOFFS 6.48075474731886
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {218A3083-4E41-46DA-B18C-73C1F051EB9F}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\slide-whistle.wav"
+      >
+    >
+    <ITEM
+      POSITION 53.47826963004821
+      SNAPOFFS 0
+      LENGTH 0.64905883489943
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.595269 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {1C0FAD29-6C49-40B5-91D7-81BBFC9DBCB1}
+      IID 179
+      NAME slide-whistle.wav
+      VOLPAN 0.183354 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB8294F8-2E59-4B10-8E8C-EF75BE9969EE}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\slide-whistle.wav"
+      >
+    >
+    <ITEM
+      POSITION 53.53205903625535
+      SNAPOFFS 0
+      LENGTH 1.91490286097152
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.595269 1 1 0
+      FADEOUT 1.1 0.01 0.344252 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {825BD408-E0CD-49B4-A28D-0788EF60E833}
+      IID 181
+      NAME slideupp.wav
+      VOLPAN 0.446429 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFF1B0EF-F937-4ACF-8654-16D88FFA1595}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\slideupp.wav"
+      >
+    >
+    <ITEM
+      POSITION 55.10270969750369
+      SNAPOFFS 0
+      LENGTH 0.47334677464381
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.344252 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {26F41A80-1C1E-4590-B632-BBD808CB3306}
+      IID 182
+      NAME slide-whistle.wav
+      VOLPAN 0.446429 0 1 -1
+      SOFFS 0.36218200179721
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A2DB5BB-0542-4E9D-9C3F-BE1928CFBD1B}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\slide-whistle.wav"
+      >
+    >
+    <ITEM
+      POSITION 59.02322284263172
+      SNAPOFFS 0
+      LENGTH 0.24343677959379
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.05 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FCD3F7F0-4694-481A-B4F0-263FDB5DE570}
+      IID 24
+      NAME slide-whistle.wav
+      VOLPAN 0.446429 0 1 -1
+      SOFFS 1.18551252392491
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96DD3A27-2602-4562-AC18-0A307C07AEF4}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\slide-whistle.wav"
+      >
+    >
+    <ITEM
+      POSITION 67.99101866924435
+      SNAPOFFS 0
+      LENGTH 3.5937090961468
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 1.199121 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {9FF07358-3CE4-49B0-83BC-25E848CD10BB}
+      IID 326
+      NAME 104958__glaneur-de-sons__petit-feu-little-fire-2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2EECE80-5C2B-49A1-B958-771E8F67C90C}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\104958__glaneur-de-sons__petit-feu-little-fire-2.wav"
+      >
+    >
+    <ITEM
+      POSITION 70.38560688735772
+      SNAPOFFS 0
+      LENGTH 5.11810416666668
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1.199121 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5B4A370D-1550-4FBF-AABF-369A7071484E}
+      IID 359
+      NAME smokin.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6B1730E-A5A4-4D25-8BB6-8E2BD47EB8C8}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\smokin.wav"
+      >
+    >
+    <ITEM
+      POSITION 83.04224690818656
+      SNAPOFFS 0
+      LENGTH 0.69214687982981
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.380112 0 1 0 0
+      FADEOUT 1.1 0.01 0.021572 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {2465A524-5A06-408D-9E05-2AF630D085FB}
+      IID 230
+      NAME 185354__qubodup__iwans-neighbour-pica-pica.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2.84281290960375
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6615226F-88F2-4A77-8DC1-B389504F44F7}
+      <SOURCE FLAC
+        FILE "samples\triggers-target\185354__qubodup__iwans-neighbour-pica-pica.flac"
+      >
+    >
+    <ITEM
+      POSITION 83.71282150561883
+      SNAPOFFS 0
+      LENGTH 0.36218200179469
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.021572 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {51B17355-68CE-45F0-8D40-810D04F7A92D}
+      IID 232
+      NAME 185354__qubodup__iwans-neighbour-pica-pica.flac
+      VOLPAN 0.196429 0 1 -1
+      SOFFS 3.53495978943356
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89BADE2C-6A5F-47A6-B602-37342D06F753}
+      <SOURCE FLAC
+        FILE "samples\triggers-target\185354__qubodup__iwans-neighbour-pica-pica.flac"
+      >
+    >
+    <ITEM
+      POSITION 85.61710633803587
+      SNAPOFFS 0
+      LENGTH 0.24732408290033
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 0.075711 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {A9B53E84-2CE0-42E1-89FB-2FDF1E679793}
+      IID 236
+      NAME 185354__qubodup__iwans-neighbour-pica-pica.flac
+      VOLPAN 0.571429 0 1 -1
+      SOFFS 14.49377128585562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43D14981-682B-4E7F-9EAF-E1FCE25F3736}
+      <SOURCE FLAC
+        FILE "samples\triggers-target\185354__qubodup__iwans-neighbour-pica-pica.flac"
+      >
+    >
+    <ITEM
+      POSITION 85.7887189670043
+      SNAPOFFS 0
+      LENGTH 0.38988859507658
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.075711 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {12312F0F-C41C-442E-A7FD-0233F74F38E4}
+      IID 227
+      NAME 240469__godowan__wings2.wav
+      VOLPAN 0.25 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5EE49B1-3244-4D4B-B019-9AD1BD0B48E2}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\240469__godowan__wings2.wav"
+      >
+    >
+    <ITEM
+      POSITION 90.63640001819043
+      SNAPOFFS 0
+      LENGTH 0.625625
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {04A4F892-FD56-4AAF-BB54-8512BE360C57}
+      IID 227
+      NAME 240469__godowan__wings2.wav
+      VOLPAN 0.392857 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82C1307B-D1D7-4F4F-8E16-0A9147741801}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\240469__godowan__wings2.wav"
+      >
+    >
+    <ITEM
+      POSITION 94.28487276779026
+      SNAPOFFS 0
+      LENGTH 1.72640003943449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BDFE5D5C-197D-4E1F-A4A2-0CF0D8152D5E}
+      IID 226
+      NAME 119908__ftpalad__dunking-in-water.aiff
+      VOLPAN 0.285714 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1525575E-5ADE-4629-A7EA-2A945BB9B4BF}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\119908__ftpalad__dunking-in-water.aiff"
+      >
+    >
+    <ITEM
+      POSITION 191.29212626210864
+      SNAPOFFS 0
+      LENGTH 24.52108333333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8FC0CFAA-98B1-4CB1-A915-A1ACF9A33D28}
+      IID 169
+      NAME rev-chime.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AEA191EF-78DF-492D-AD7F-E7C2993029A9}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\rev-chime.wav"
+      >
+    >
+  >
+  <TRACK {1FE90BB7-6F35-434E-AA90-A5DA286FDF54}
+    NAME fum
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1FE90BB7-6F35-434E-AA90-A5DA286FDF54}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 14.9982218166143
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B147D4FA-F8DF-4CC9-BC07-314938DB663D}
+      IID 299
+      NAME "01 Brewing, Jacob's Ladder.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.52677715736828
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B9A549C7-EE0C-4686-B92E-52CE15D2A878}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\01 Brewing, Jacob's Ladder.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.9982218166143
+      SNAPOFFS 0
+      LENGTH 14.26173240622532
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 11.618527 0.613504 5 1 0
+      MUTE 0
+      SEL 0
+      IGUID {23A24553-E77C-4DB3-9FD4-40A8DB9E09DD}
+      IID 4
+      NAME "01 Brewing, Jacob's Ladder.wav"
+      VOLPAN 0.517857 0 1 -1
+      SOFFS 16.52499897398258
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A8AC41E8-9CA0-4A08-B5B7-2743CD8F8F80}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\01 Brewing, Jacob's Ladder.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.64645051779924
+      SNAPOFFS 0
+      LENGTH 9.34198823584207
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.613504 1 1 0
+      FADEOUT 1.1 0.01 6.011771 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {2E7170C9-8532-475A-A930-3B851FD5D941}
+      IID 106
+      NAME entry.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D682F16-6ACB-401F-A32D-82430672EDDD}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\entry.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.97666764698657
+      SNAPOFFS 0
+      LENGTH 12.97690043914268
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 2.37 6.011771 1 1 0
+      FADEOUT 1.1 0.01 0.188702 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {336DD2DB-C328-4A83-894C-3A63EF9C8EEE}
+      IID 2
+      NAME "01 Brewing, Jacob's Ladder.wav"
+      VOLPAN 0.214286 0 1 -1
+      SOFFS 4.80848766600424
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5254CA6-0601-4B66-8EB0-5CB6CD65EC8F}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\01 Brewing, Jacob's Ladder.wav"
+      >
+    >
+    <ITEM
+      POSITION 44.76486604113273
+      SNAPOFFS 0
+      LENGTH 4.83069112958891
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.188702 1 1 0
+      FADEOUT 1.1 1.109475 0.348531 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {2EF5FDEA-1C26-4E00-8621-F6FE35A19F2D}
+      IID 325
+      NAME "01 Brewing, Jacob's Ladder.wav"
+      VOLPAN 0.107143 0 1 -1
+      SOFFS 17.5966860601504
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4990FB40-692F-4595-9AC7-AA5F9132B215}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\01 Brewing, Jacob's Ladder.wav"
+      >
+    >
+    <ITEM
+      POSITION 49.24702577744576
+      SNAPOFFS 0
+      LENGTH 4.73619706518578
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 3.522799 0.348531 1 1 0
+      FADEOUT 1.1 0.01 0.76 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {603FBB3F-08B3-48F9-9151-D587B36789AA}
+      IID 32
+      NAME "01 Brewing, Jacob's Ladder.wav"
+      VOLPAN 0.303571 0 1 -1
+      SOFFS 39.54779866222373
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {671CC0EA-BB1C-4D2D-B769-FCE0F2966403}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\01 Brewing, Jacob's Ladder.wav"
+      >
+    >
+    <ITEM
+      POSITION 53.22322284263154
+      SNAPOFFS 0
+      LENGTH 14.93796180021236
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.76 1 1 0
+      FADEOUT 1.1 0.323737 0.170166 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {C27EF103-FAF5-4F04-84C4-76E99917A26F}
+      IID 47
+      NAME "01 Brewing, Jacob's Ladder.wav"
+      VOLPAN 0.142857 0 1 -1
+      SOFFS 41.08990597657024
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {091C245D-2835-4DE7-82D6-CD41D72C3049}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\01 Brewing, Jacob's Ladder.wav"
+      >
+    >
+    <ITEM
+      POSITION 67.99101866924435
+      SNAPOFFS 0
+      LENGTH 5.51787980740976
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.170166 1 1 0
+      FADEOUT 1.1 0.01 1.338554 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {A3EF2BA2-49E6-4217-A37A-E0307DBFB303}
+      IID 17
+      NAME "01 Brewing, Jacob's Ladder.wav"
+      VOLPAN 0.142857 0 1 -1
+      SOFFS 33.89843763568518
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D37500F6-9F12-4035-9287-DDC455648214}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\01 Brewing, Jacob's Ladder.wav"
+      >
+    >
+    <ITEM
+      POSITION 72.17034493838423
+      SNAPOFFS 0
+      LENGTH 11.97030435352124
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.928207 1.338554 2 1 1
+      FADEOUT 1.1 10.494221 7.590496 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {E15B2A36-E59D-482D-95A2-498972B08985}
+      IID 32
+      NAME "01 Brewing, Jacob's Ladder.wav"
+      VOLPAN 0.464286 0 1 -1
+      SOFFS 38.07776390482506
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1AC9E182-24AC-4307-82F6-961C5B591159}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\01 Brewing, Jacob's Ladder.wav"
+      >
+    >
+    <ITEM
+      POSITION 76.55015327293482
+      SNAPOFFS 0
+      LENGTH 10.54646841598336
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 7.590496 1 1 0
+      FADEOUT 1.1 0 0.613504 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {86583C6E-1D80-4C20-957C-CEF39332108C}
+      IID 50
+      NAME "38 Bath, Filled.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 6.22126935694139
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0085FADA-5022-4314-94F0-E3DA54AA0DF7}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\38 Bath, Filled.wav"
+      >
+    >
+    <ITEM
+      POSITION 86.4831179838778
+      SNAPOFFS 0
+      LENGTH 12.85243430905571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.613504 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6A6FC319-7227-4FC6-AF1E-099F03292D7E}
+      IID 51
+      NAME "38 Bath, Filled.wav"
+      VOLPAN 0.464286 0 1 -1
+      SOFFS 16.15423406788437
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5235066-2871-49A0-9148-E95202ACC3EE}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\38 Bath, Filled.wav"
+      >
+    >
+    <ITEM
+      POSITION 99.33555229293351
+      SNAPOFFS 0
+      LENGTH 70.22257786709523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C17D36BC-4967-429D-A58C-AB117A0128CB}
+      IID 59
+      NAME "38 Bath, Filled.wav"
+      VOLPAN 0.035714 0 1 -1
+      SOFFS 29.00666837694008
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0406B3F1-10EB-41BF-8DD9-54CE1911C549}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\38 Bath, Filled.wav"
+      >
+    >
+    <ITEM
+      POSITION 169.55813016002872
+      SNAPOFFS 0
+      LENGTH 24.96284329494748
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 7.118223 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1751D8CA-3750-459F-9A41-5075A6C997BE}
+      IID 60
+      NAME "38 Bath, Filled.wav"
+      VOLPAN 0.071429 0 1 -1
+      SOFFS 99.22924624403531
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {007547DB-08F2-4E55-9223-014E3E07C075}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\38 Bath, Filled.wav"
+      >
+    >
+    <ITEM
+      POSITION 201.45793664296357
+      SNAPOFFS 0
+      LENGTH 16.43260416666666
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B29C405D-BD5A-43E4-99E2-6C0246B0DCFE}
+      IID 171
+      NAME chimes2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 1
+      GUID {6D56CFF1-66F4-491E-937C-88F1A163F138}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\chimes2.wav"
+      >
+    >
+  >
+  <TRACK {7D74DCE3-16B6-4E3F-8205-CA453F3C1DF9}
+    NAME animatic_15.01.2018
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7D74DCE3-16B6-4E3F-8205-CA453F3C1DF9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 230.78344715593553
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0E437E97-3E09-48B1-9A9D-08EDD0863035}
+      IID 300
+      NAME animatic_15.01.2018.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00055284406445
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6BBDB33F-9A63-48CC-9A3C-F7A2CE1C6217}
+      <SOURCE VIDEO
+        FILE "animatic_15.01.2018.mp4"
+      >
+    >
+  >
+  <TRACK {F7F180C0-CEF5-49DC-BCF8-FDD1C0E4E68D}
+    NAME OLD
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F7F180C0-CEF5-49DC-BCF8-FDD1C0E4E68D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 69.5184919551638
+      SNAPOFFS 0
+      LENGTH 1.8893228141072
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {82B92F99-B74B-450D-8622-CE6F486D4F68}
+      IID 22
+      NAME slide-whistle.wav
+      VOLPAN 0.339286 0 1 -1
+      SOFFS 5.05478135255947
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5FEF2C2-4D02-4AAD-A0EC-BDDDA9F5DFE1}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\slide-whistle.wav"
+      >
+    >
+  >
+  <TRACK {B6B389A5-594C-4124-9A1D-0B99F638A324}
+    NAME 210000__jason130178__man-breathing
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B6B389A5-594C-4124-9A1D-0B99F638A324}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 34.72999999999882
+      SNAPOFFS 0
+      LENGTH 15.02433454169049
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7EA7741F-FC14-4998-802B-E32B8257D773}
+      IID 324
+      NAME 210000__jason130178__man-breathing.wav
+      VOLPAN 1 0 19.404405 -1
+      SOFFS 14.85534799799205
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D51B4689-52E3-4F82-97A5-4A16E390E3E5}
+      <SOURCE WAVE
+        FILE "samples\triggers-target\210000__jason130178__man-breathing.wav"
+      >
+    >
+  >
+>
