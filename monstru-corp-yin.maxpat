@@ -3633,7 +3633,7 @@
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 792.5, 332.5, 136.0, 50.0 ],
-					"setminmax" : [ -2.0, 2.0 ],
+					"setminmax" : [ -100.0, 100.0 ],
 					"size" : 4,
 					"spacing" : 1,
 					"style" : "",
@@ -4264,14 +4264,14 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-48",
-					"linecount" : 7,
+					"linecount" : 4,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 230.0, 460.0, 28.0, 105.0 ],
+					"patching_rect" : [ 230.0, 460.0, 28.0, 64.0 ],
 					"style" : "",
-					"text" : "view 3 interface matrix"
+					"text" : "foremost 1"
 				}
 
 			}
@@ -4665,7 +4665,7 @@
 					"cursor_shape" : "bar",
 					"cursor_size" : 3,
 					"cursor_visible" : 1,
-					"domain_bounds" : [ 0.0, 88707.382813 ],
+					"domain_bounds" : [ 0.0, 88765.515625 ],
 					"domainruler_bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"domainruler_fgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"domainruler_grid" : 0,
