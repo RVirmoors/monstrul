@@ -678,19 +678,39 @@
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-60",
-					"linecount" : 3,
+					"linecount" : 4,
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "signal" ],
-					"patching_rect" : [ 107.0, 286.0, 246.0, 50.0 ],
+					"patching_rect" : [ 107.0, 286.0, 310.0, 64.0 ],
 					"style" : "",
-					"text" : "mubu.granular~ 2 #1 @audio audio @positionvar 3 @play 1 @resampling 0 @resamplingvar 200 @durationvar 0 0.8"
+					"text" : "mubu.granular~ 2 #1 @audio audio @positionvar 3 @play 1 @resampling 0 @resamplingvar 200 @durationvar 0 0.8 @periodvar 0 0.3"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"attr" : "duration",
+					"id" : "obj-1",
+					"maxclass" : "attrui",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 151.0, 255.0, 262.0, 22.0 ],
+					"style" : ""
 				}
 
 			}
  ],
 		"lines" : [ 			{
+				"patchline" : 				{
+					"destination" : [ "obj-60", 0 ],
+					"source" : [ "obj-1", 0 ]
+				}
+
+			}
+, 			{
 				"patchline" : 				{
 					"destination" : [ "obj-49", 0 ],
 					"source" : [ "obj-12", 0 ]

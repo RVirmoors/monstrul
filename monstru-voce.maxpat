@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 480.0, 89.0, 1381.0, 914.0 ],
+		"rect" : [ 445.0, 91.0, 1360.0, 914.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -84,21 +84,8 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1062.5, 520.0, 30.0, 30.0 ],
+					"patching_rect" : [ 1182.25, 579.0, 30.0, 30.0 ],
 					"style" : ""
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-19",
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 1062.5, 560.0, 97.0, 22.0 ],
-					"style" : "",
-					"text" : "durationvar 0 $1"
 				}
 
 			}
@@ -483,7 +470,7 @@
 						}
 , 						{
 							"number" : 2,
-							"data" : [ 16, "obj-57", "multislider", "list", 1.0, 1.0, 1.0, 1.0, 0.910448, 0.80597, 0.567164, 0.373134, 0.208955, 0.104478, 0.059701, 0.029851 ]
+							"data" : [ 16, "obj-57", "multislider", "list", 0.625, 0.90625, 1.0, 1.0, 0.910448, 0.80597, 0.567164, 0.373134, 0.208955, 0.104478, 0.059701, 0.029851 ]
 						}
  ],
 					"style" : ""
@@ -584,7 +571,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 67.0, 109.0, 640.0, 480.0 ],
+						"rect" : [ 1136.0, 745.0, 640.0, 480.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -2688,14 +2675,14 @@
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-60",
-					"linecount" : 2,
+					"linecount" : 5,
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "signal" ],
-					"patching_rect" : [ 732.0, 652.0, 591.0, 36.0 ],
+					"patching_rect" : [ 732.0, 650.0, 208.555542, 77.0 ],
 					"style" : "",
-					"text" : "mubu.granular~ 2 #0-sources @audio audio @positionvar 3 @play 1 @resampling 0 @resamplingvar 250 @duration 40 0 @period 10 0"
+					"text" : "mubu.granular~ 2 #0-sources @audio audio @positionvar 3 @11play 1 @resampling -400 @resamplingvar 600 @duration 40 0 @period 10 0 @durationvar 0 0.4"
 				}
 
 			}
@@ -2867,13 +2854,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-60", 0 ],
-					"source" : [ "obj-19", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-22", 0 ],
 					"source" : [ "obj-2", 0 ]
 				}
@@ -2947,7 +2927,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-19", 0 ],
+					"destination" : [ "obj-45", 3 ],
 					"source" : [ "obj-30", 0 ]
 				}
 
